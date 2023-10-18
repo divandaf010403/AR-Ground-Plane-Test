@@ -1,0 +1,95 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void Control_Start_m771C85F9F6DEB08721EE519B33FFA0C7948776CA (void);
+extern void Control_gelasUkurClick_m87DA95A5B0A12BAEBB81AAE14CCCC3BB121109B8 (void);
+extern void Control_kakiTigaClick_mAC3C6976459770EF60A516F3635AFF86CE7A3105 (void);
+extern void Control__ctor_mEAB84F82268EB35BBA7634ED456BBA8EF3FDDFDB (void);
+extern void FitBackground_Start_mD14172B7A41267729D692F8687C2CCB82E1BE3BB (void);
+extern void FitBackground__ctor_m2B323B00DFFA7F9552E2869FF8B4D952D5C9760A (void);
+extern void Loading_Update_mB447BE44BF622F104CFA9F345E142504998A64AB (void);
+extern void Loading__ctor_m31B31EDD4F300E61A5C50027AC65AB632B916DD6 (void);
+extern void pindahScene_LoadScene_mFCA78DF030D9B6278D7F540BF176DFB810C719B7 (void);
+extern void pindahScene__ctor_m4D711438AD9B4F171648A0BE49ED91F0C15F6FF5 (void);
+extern void quit_quitAR_m7099E26268A4E1AB475C713DC5E2948FDA34FCE6 (void);
+extern void quit__ctor_m96F4056F8634326EDFC37DFF61DE8407DA8277BC (void);
+extern void sliderAnimation_ShowMenu_m54F5CA6BA01F204BE205B9EFF81E5B44F6D6519E (void);
+extern void sliderAnimation__ctor_mBBE83D4B1A422FEA6E0661D75F24DEA376A5B20A (void);
+extern void VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4 (void);
+extern void VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[18] = 
+{
+	Control_Start_m771C85F9F6DEB08721EE519B33FFA0C7948776CA,
+	Control_gelasUkurClick_m87DA95A5B0A12BAEBB81AAE14CCCC3BB121109B8,
+	Control_kakiTigaClick_mAC3C6976459770EF60A516F3635AFF86CE7A3105,
+	Control__ctor_mEAB84F82268EB35BBA7634ED456BBA8EF3FDDFDB,
+	FitBackground_Start_mD14172B7A41267729D692F8687C2CCB82E1BE3BB,
+	FitBackground__ctor_m2B323B00DFFA7F9552E2869FF8B4D952D5C9760A,
+	Loading_Update_mB447BE44BF622F104CFA9F345E142504998A64AB,
+	Loading__ctor_m31B31EDD4F300E61A5C50027AC65AB632B916DD6,
+	pindahScene_LoadScene_mFCA78DF030D9B6278D7F540BF176DFB810C719B7,
+	pindahScene__ctor_m4D711438AD9B4F171648A0BE49ED91F0C15F6FF5,
+	quit_quitAR_m7099E26268A4E1AB475C713DC5E2948FDA34FCE6,
+	quit__ctor_m96F4056F8634326EDFC37DFF61DE8407DA8277BC,
+	sliderAnimation_ShowMenu_m54F5CA6BA01F204BE205B9EFF81E5B44F6D6519E,
+	sliderAnimation__ctor_mBBE83D4B1A422FEA6E0661D75F24DEA376A5B20A,
+	VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4,
+	VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[18] = 
+{
+	8127,
+	8127,
+	8127,
+	8127,
+	8127,
+	8127,
+	8127,
+	8127,
+	6321,
+	8127,
+	8127,
+	8127,
+	8127,
+	8127,
+	12178,
+	8127,
+	12257,
+	8127,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	18,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
